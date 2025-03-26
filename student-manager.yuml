@@ -1,0 +1,20 @@
+[Student]-(View Details)
+[Student]-(View Grades)
+
+[Teacher]-(View Students)
+[Teacher]-(Add Student)
+[Teacher]-(Add Grades)
+
+[Admin]-(Create Account)
+[Admin]-(Add Subjects)
+
+(Log In) > (View Details)
+(Log In) > (View Grades)
+(Log In) > (View Students)
+(Log In) > (Add Student)
+(Log In) > (Add Grades)
+(Verify Credentials) > (Log In)
+
+(Display Student Already Added Error) < (Add Student)
+(Inspect Statistical Data) < (Add Grades)
+(Display Account Locked Error) < (Log In)
